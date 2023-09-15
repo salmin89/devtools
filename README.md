@@ -8,6 +8,7 @@
 
 ### TypeScript Tools
 - [Are The Types Wrong](https://arethetypeswrong.github.io/) - scan npm package for wrongly defined types
+- [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - vscode extension for prettier errors
 
 ### Visual Studio Code Extensions
 - [Name: Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, etc
