@@ -5,6 +5,8 @@
 - [MacOS](#macos)
 - [Hacking Tools](#hacking-tools)
 
+### Web Tools
+- [tldraw.com](https://github.com/tldraw) - collab whiteboard and library
 
 ### TypeScript Tools
 - [Are The Types Wrong](https://arethetypeswrong.github.io/) - scan npm package for wrongly defined types
@@ -13,8 +15,6 @@
 ### Visual Studio Code Extensions
 - [Name: Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, etc
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code
-
-
 
 ### Terminal Tools
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust
