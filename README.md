@@ -1,4 +1,5 @@
 # Table of Content <!-- omit from toc -->
+- [Web Tools](#web-tools)
 - [TypeScript Tools](#typescript-tools)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Terminal Tools](#terminal-tools)
