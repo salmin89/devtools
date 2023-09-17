@@ -1,0 +1,29 @@
+name: Add Link
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  add_link:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Add Link
+        run: |
+          # Get the link from the HTTP POST request (replace with your method)
+          LINK=$(curl -X POST -d "link=<YOUR_LINK_HERE>" https://example.com/submit-link)
+
+          # Add the link to the markdown file
+          echo "- [${LINK}](#${LINK})" >> links.md
+
+          # Commit and push the changes
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add links.md
+          git commit -m "Add a new link"
+          git push
