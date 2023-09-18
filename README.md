@@ -5,6 +5,7 @@
 - [Terminal Tools](#terminal-tools)
 - [MacOS](#macos)
 - [Hacking Tools](#hacking-tools)
+- [ETC](#etc)
 
 ### Web Tools
 - [tldraw.com](https://github.com/tldraw) - collab whiteboard and library
@@ -30,3 +31,6 @@
 
 ### Hacking Tools
 - [github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - A collection of hacking tools
+
+### ETC
+- [isbot](https://github.com/omrilotan/isbot) - Detect bots/crawlers/spiders using the user agent string.
