@@ -6,6 +6,7 @@
 - [MacOS](#macos)
 - [Hacking Tools](#hacking-tools)
 - [ETC](#etc)
+- [Chrome Extensions](#chrome-extensions)
 
 ### Web Tools
 - [tldraw.com](https://github.com/tldraw) - collab whiteboard and library
@@ -34,3 +35,6 @@
 
 ### ETC
 - [isbot](https://github.com/omrilotan/isbot) - Detect bots/crawlers/spiders using the user agent string.
+
+### Chrome Extensions
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - This eye-care extension enables night mode by creating dark themes for websites on the fly.
