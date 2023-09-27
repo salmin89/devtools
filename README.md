@@ -14,6 +14,7 @@
 ### TypeScript Tools
 - [Are The Types Wrong](https://arethetypeswrong.github.io/) - scan npm package for wrongly defined types
 - [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - vscode extension for prettier errors
+- [TSConfig Bases](https://github.com/tsconfig/bases) - Hosts TSConfigs for you to extend in your apps, tuned to a particular runtime environment
 
 ### Visual Studio Code Extensions
 - [Name: Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, etc
@@ -29,6 +30,7 @@
 ### MacOS
 - [Blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX
 - [Bluesnooze](https://github.com/odlp/bluesnooze) - Bluesnooze prevents your sleeping Mac from connecting to Bluetooth accessories.
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Custom Resolutions, XDR/HDR Extra Brightness, Virtual Screens, Picture in Picture, Display Disconnect, Display and EDID overrides & More!
 
 ### Hacking Tools
 - [github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - A collection of hacking tools
