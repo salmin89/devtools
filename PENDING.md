@@ -7,5 +7,3 @@
 [https://reddit.com/r/reactjs/s/b5W7fUaMcH](https://reddit.com/r/reactjs/s/b5W7fUaMcH)
 
 [https://github.com/tsconfig/bases](https://github.com/tsconfig/bases)
-
-[https://www.imdb.com/title/tt8633462/](https://www.imdb.com/title/tt8633462/)
