@@ -13,3 +13,5 @@
 [https://replicate.com/](https://replicate.com/)
 
 [https://www.tunity.com/](https://www.tunity.com/)
+
+[GitHub - jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
