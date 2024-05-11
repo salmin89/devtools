@@ -13,3 +13,6 @@
 [https://www.tunity.com/](https://www.tunity.com/)
 
 [GitHub - jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
+
+
+[GitHub - biomejs/biome: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.](https://github.com/biomejs/biome)
