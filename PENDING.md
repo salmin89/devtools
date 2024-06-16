@@ -20,3 +20,5 @@
 [typespec](https://github.com/microsoft/typespec)
 
 [Free-Video-Tools](https://github.com/Anil-matcha/Free-Video-Tools)
+
+[GitHub - ronilan/that-is-impossible: Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps](https://github.com/ronilan/that-is-impossible)
