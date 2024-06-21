@@ -22,3 +22,5 @@
 [Free-Video-Tools](https://github.com/Anil-matcha/Free-Video-Tools)
 
 [GitHub - ronilan/that-is-impossible: Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps](https://github.com/ronilan/that-is-impossible)
+
+[GitHub - privatenumber/tsx: ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js](https://github.com/privatenumber/tsx?tab=readme-ov-file)
