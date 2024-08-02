@@ -26,3 +26,5 @@
 [GitHub - privatenumber/tsx: ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js](https://github.com/privatenumber/tsx?tab=readme-ov-file)
 
 [Veloxi | Veloxi](https://veloxijs.com/)
+
+[TypeScript Execute (tsx) | tsx](https://tsx.is/)
