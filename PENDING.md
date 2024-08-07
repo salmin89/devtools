@@ -28,3 +28,5 @@
 [Veloxi | Veloxi](https://veloxijs.com/)
 
 [TypeScript Execute (tsx) | tsx](https://tsx.is/)
+
+[Planable/why: A tool to document your package.json scripts](https://github.com/Planable/why?tab=readme-ov-file#readme)
