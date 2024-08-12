@@ -34,3 +34,5 @@
 [slevithan/regex: Regex template tag with extended syntax, context-aware interpolation, and always-on best practices](https://github.com/slevithan/regex)
 
 [Shortcut Masters | Learn vscode shortcuts with spaced repetition](https://shortcutmasters.com/)
+
+[Next-gen Web Extension Framework – WXT](https://wxt.dev/)
