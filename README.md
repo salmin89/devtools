@@ -7,15 +7,17 @@
 - [Hacking Tools](#hacking-tools)
 - [ETC](#etc)
 - [Chrome Extensions](#chrome-extensions)
+- [UI](#UI)
 
 ### Web Tools
 - [tldraw.com](https://github.com/tldraw) - collab whiteboard and library
+- [Shortcut Masters | Learn vscode shortcuts with spaced repetition](https://shortcutmasters.com/)
 
 ### TypeScript Tools
 - [Are The Types Wrong](https://arethetypeswrong.github.io/) - scan npm package for wrongly defined types
 - [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - vscode extension for prettier errors
 - [TSConfig Bases](https://github.com/tsconfig/bases) - Hosts TSConfigs for you to extend in your apps, tuned to a particular runtime environment
-
+- [TypeScript Execute (tsx) | tsx](https://tsx.is/)
 ### Visual Studio Code Extensions
 - [Name: Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, etc
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code
@@ -37,6 +39,13 @@
 
 ### ETC
 - [isbot](https://github.com/omrilotan/isbot) - Detect bots/crawlers/spiders using the user agent string.
+- [slevithan/regex: Regex template tag with extended syntax, context-aware interpolation, and always-on best practices](https://github.com/slevithan/regex)
+- [Planable/why: A tool to document your package.json scripts](https://github.com/Planable/why?tab=readme-ov-file#readme)
+
 
 ### Chrome Extensions
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - This eye-care extension enables night mode by creating dark themes for websites on the fly.
+- [Next-gen Web Extension Framework – WXT](https://wxt.dev/)
+
+### UI
+- [Veloxi | Veloxi](https://veloxijs.com/)

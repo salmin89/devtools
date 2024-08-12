@@ -23,16 +23,5 @@
 
 [GitHub - ronilan/that-is-impossible: Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps](https://github.com/ronilan/that-is-impossible)
 
-[GitHub - privatenumber/tsx: ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js](https://github.com/privatenumber/tsx?tab=readme-ov-file)
 
-[Veloxi | Veloxi](https://veloxijs.com/)
 
-[TypeScript Execute (tsx) | tsx](https://tsx.is/)
-
-[Planable/why: A tool to document your package.json scripts](https://github.com/Planable/why?tab=readme-ov-file#readme)
-
-[slevithan/regex: Regex template tag with extended syntax, context-aware interpolation, and always-on best practices](https://github.com/slevithan/regex)
-
-[Shortcut Masters | Learn vscode shortcuts with spaced repetition](https://shortcutmasters.com/)
-
-[Next-gen Web Extension Framework – WXT](https://wxt.dev/)
