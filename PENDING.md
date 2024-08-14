@@ -25,3 +25,6 @@
 
 
 
+
+
+[TTW Extra #7 🔥: All JavaScript talks of 2024 so far...](https://techtalksweekly.substack.com/p/ttw-extra-7-all-javascript-talks)
