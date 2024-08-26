@@ -32,3 +32,5 @@
 [Job Search | Hiring.fm | Direct Job Opportunities from Top Employers](https://hiring.fm/jobs)
 
 [Shortcut Masters | Learn vscode shortcuts with spaced repetition](https://shortcutmasters.com/)
+
+[austin-starks/NextTrade: A system that performs algorithmic trading](https://github.com/austin-starks/NextTrade)
