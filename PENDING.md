@@ -34,3 +34,5 @@
 [Shortcut Masters | Learn vscode shortcuts with spaced repetition](https://shortcutmasters.com/)
 
 [austin-starks/NextTrade: A system that performs algorithmic trading](https://github.com/austin-starks/NextTrade)
+
+[vadimdemedes/ink: 🌈 React for interactive command-line apps](https://github.com/vadimdemedes/ink)
