@@ -36,3 +36,5 @@
 [austin-starks/NextTrade: A system that performs algorithmic trading](https://github.com/austin-starks/NextTrade)
 
 [vadimdemedes/ink: 🌈 React for interactive command-line apps](https://github.com/vadimdemedes/ink)
+
+[GitHub - hviana/faster_react: Full Stack web framework with React + Faster. Automatic routes, reload and component bundle. SSR + Hydration. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://github.com/hviana/faster_react)
