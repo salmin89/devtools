@@ -40,3 +40,5 @@
 [GitHub - hviana/faster_react: Full Stack web framework with React + Faster. Automatic routes, reload and component bundle. SSR + Hydration. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://github.com/hviana/faster_react)
 
 [Go from TypeScript | Go from TS](https://gofromts.tmkn.dev/)
+
+[GitHub - yohimik/webxash3d-fwgs: Emscripten Xash3d-FWGS web port](https://github.com/yohimik/webxash3d-fwgs)
