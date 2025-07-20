@@ -42,3 +42,5 @@
 [Go from TypeScript | Go from TS](https://gofromts.tmkn.dev/)
 
 [GitHub - yohimik/webxash3d-fwgs: Emscripten Xash3d-FWGS web port](https://github.com/yohimik/webxash3d-fwgs)
+
+[I spent 18 months building a design system that makes UI's feel "oddly satisfying." Now it's open source! : r/webdev](https://www.reddit.com/r/webdev/comments/1m41arx/i_spent_18_months_building_a_design_system_that/?share_id=5jHO4cW2gZkeO3D5WO82V&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
